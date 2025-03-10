@@ -1,5 +1,8 @@
 # Parts Inventory Manager
 
+## Created by Hassan Elmi and Khalid Mohamed
+## Inet 3101 C Programming
+## Instructor Joe Axberg
 ## Overview
 This project is a Parts Inventory Manager written in C. It allows you to add, delete, and print part records in an inventory database. Each part has a unique number, name, size, size metric, and cost.
 
